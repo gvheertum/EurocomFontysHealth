@@ -1,4 +1,4 @@
-*NOTE:* This was forked to the Eurocom-Fontys company repo's and will be maintained there.
+*NOTE:* This was forked to the Eurocom-Fontys company repo's and will be maintained at: https://github.com/Eurocom-Fontys/Fontys.Util.eHealthTestEndPoints
 
 # Fontys Eurocom eHealth Testing Environment
 A small test API for Fontys Students to build testimplementations against our INR and Medicine Dispensers. These services use made-up and randomly generated data to provide a base set to work on.
